@@ -1,7 +1,7 @@
 print("Hello World")
 print("Hoy")
 print("Goodbye World")
-print("Noy")
+print("Goy")
 print("Salutations World")
 print("Soy")
 print("Farewell World")
